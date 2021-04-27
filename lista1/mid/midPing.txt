@@ -1,0 +1,6 @@
+PING gov.uk (151.101.64.144) 56(84) bytes of data.
+64 bytes from 151.101.64.144 (151.101.64.144): icmp_seq=1 ttl=50 time=39.1 ms
+
+--- gov.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 39.066/39.066/39.066/0.000 ms

@@ -1,0 +1,35 @@
+PING ki.pwr.edu.pl (156.17.7.22) 56(84) bytes of data.
+64 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=1 ttl=49 time=52.2 ms
+64 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=2 ttl=49 time=50.5 ms
+64 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=3 ttl=49 time=53.8 ms
+64 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=4 ttl=49 time=51.4 ms
+64 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=5 ttl=49 time=51.1 ms
+64 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=6 ttl=49 time=50.4 ms
+64 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=7 ttl=49 time=51.7 ms
+64 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=8 ttl=49 time=51.0 ms
+64 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=9 ttl=49 time=54.7 ms
+64 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=10 ttl=49 time=51.9 ms
+64 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=11 ttl=49 time=50.6 ms
+64 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=12 ttl=49 time=50.9 ms
+64 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=13 ttl=49 time=50.8 ms
+64 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=14 ttl=49 time=53.6 ms
+64 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=15 ttl=49 time=51.0 ms
+64 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=16 ttl=49 time=51.9 ms
+64 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=17 ttl=49 time=50.2 ms
+64 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=18 ttl=49 time=52.4 ms
+64 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=19 ttl=49 time=50.6 ms
+64 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=20 ttl=49 time=51.0 ms
+64 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=21 ttl=49 time=51.5 ms
+64 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=22 ttl=49 time=50.3 ms
+64 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=23 ttl=49 time=51.2 ms
+64 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=24 ttl=49 time=53.5 ms
+64 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=25 ttl=49 time=52.3 ms
+64 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=26 ttl=49 time=52.2 ms
+64 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=27 ttl=49 time=51.0 ms
+64 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=28 ttl=49 time=50.5 ms
+64 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=29 ttl=49 time=50.9 ms
+64 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=30 ttl=49 time=51.9 ms
+
+--- ki.pwr.edu.pl ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 29050ms
+rtt min/avg/max/mdev = 50.177/51.558/54.736/1.113 ms

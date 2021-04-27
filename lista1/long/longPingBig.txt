@@ -1,0 +1,6 @@
+PING canada.ca (205.193.215.159) 20000(20028) bytes of data.
+20008 bytes from parked-redirect.gc.ca (205.193.215.159): icmp_seq=1 ttl=222 time=155 ms
+
+--- canada.ca ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 155.065/155.065/155.065/0.000 ms

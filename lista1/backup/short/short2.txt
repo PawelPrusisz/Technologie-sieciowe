@@ -1,0 +1,15 @@
+PING ki.pwr.edu.pl (156.17.7.22) 1016(1044) bytes of data.
+1024 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=1 ttl=49 time=54.6 ms
+1024 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=2 ttl=49 time=52.8 ms
+1024 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=3 ttl=49 time=52.0 ms
+1024 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=4 ttl=49 time=57.2 ms
+1024 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=5 ttl=49 time=52.0 ms
+1024 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=6 ttl=49 time=53.3 ms
+1024 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=7 ttl=49 time=53.4 ms
+1024 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=8 ttl=49 time=54.9 ms
+1024 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=9 ttl=49 time=53.1 ms
+1024 bytes from informatyka.im.pwr.wroc.pl (156.17.7.22): icmp_seq=10 ttl=49 time=50.9 ms
+
+--- ki.pwr.edu.pl ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 50.945/53.415/57.220/1.697 ms

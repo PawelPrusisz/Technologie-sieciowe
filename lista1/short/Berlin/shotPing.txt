@@ -1,0 +1,6 @@
+PING berlinbritishschool.de (217.160.0.190) 56(84) bytes of data.
+64 bytes from 217-160-0-190.elastic-ssl.ui-r.com (217.160.0.190): icmp_seq=1 ttl=51 time=64.5 ms
+
+--- berlinbritishschool.de ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 64.509/64.509/64.509/0.000 ms

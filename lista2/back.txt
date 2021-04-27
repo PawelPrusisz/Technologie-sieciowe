@@ -1,0 +1,74 @@
+            [1, 2, 17],
+            [0, 3, 2],
+            [0, 1, 4],
+            [1, 6],
+            [2, 5, 9],
+            [3, 4, 6],
+            [5, 9, 7],
+            [6, 8],
+            [7, 9, 12],
+            [6, 4, 11, 7],
+            [11, 14],
+            [10, 9, 13],
+            [8, 13],
+            [12, 11, 14, 15],
+            [10, 17, 13],
+            [16, 13],
+            [19, 17, 15],
+            [0, 14, 16, 19, 18],
+            [19, 17],
+            [18, 17, 16],]
+
+#debug and testing
+for i in who:
+    for j in range(len(i)-1):
+        t = nx.shortest_path(G,j, j+1)
+        for el in range (len(t)-1):
+            flow[t[el]][t[el+1]] += intensity[t[el]][t[el+1]]
+
+ok = 1
+minflow = 1000000
+x = 0
+y = 0
+for i in range(len(flow)):
+    for j in range(len(flow[i])):
+        if(flow[i][j] < minflow) and flow[i][j] != 0:
+            minflow = flow[i][j]
+            x = i
+            y = j
+        if(flow[i][j] > capacity[i][j]):
+            print("ERROR!")
+            print(str(i) + " " + str(j) + " actual:" + str(flow[i][j]) + " max:" + str(capacity[i][j]))
+            ok = 0
+print("min flow in " + str(x) + " " + str(y) + " equals:" + str(minflow))
+if(ok == 1):
+    print("wszytkie pakiety dotarly")
+else:
+    print("siec zawiodla")
+                
+
+
+
+
+#
+# Time
+#
+
+delay = 0.0
+sum_e = 29
+Gsum = 0.0
+avg = 0.0
+c = 0.0
+a = 0.0
+for i in range(len(nodes)):
+    for j in range(len(nodes[i])):
+        Gsum += intensity[i][j]
+        a += flow[i][j]
+        c += capacity[i][j]
+
+avg = a/29
+print(Gsum)
+print(a)
+print(avg)
+print(c)
+delay = 1/Gsum * (a/(c/avg - a))

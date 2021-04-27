@@ -1,0 +1,37 @@
+Name: 
+Type: Graph
+Number of nodes: 20
+Number of edges: 29
+Average degree:   2.9000
+False
+Ustalony przeplyw danych
+
+Network #1
+Success rate: 52.9%
+Isolated nodes fails: 21
+Network overload fails: 0
+Fails timeout: 450
+
+Zwiekszane natezenie
+
+Network #2
+Success rate: 0.3%
+Isolated nodes fails: 0
+Network overload fails: 992
+Fails timeout: 5
+
+Zwiekszane przepustowosc
+
+Network #3
+Success rate: 100.0%
+Isolated nodes fails: 0
+Network overload fails: 0
+Fails timeout: 0
+
+Dodawanie krawedzi
+
+Network #4
+Success rate: 100.0%
+Isolated nodes fails: 0
+Network overload fails: 0
+Fails timeout: 0
