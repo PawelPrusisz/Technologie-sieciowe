@@ -164,7 +164,7 @@ print nx.is_directed(G)
 print("Ustalony przeplyw danych")
 print("\nNetwork #1")
 increases = 100
-m = 10
+m = 1000
 for inc in range(increases):
     
     falisPath = 0
