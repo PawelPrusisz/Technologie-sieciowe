@@ -2,7 +2,7 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-
+int packetsRead = 0;
 string input;
 
 bool frame(int index)
@@ -23,51 +23,74 @@ int main()
 
     int i = 0;
 
-    while(frame(i))i++;
-
-    int ones = 0;
-
-    for(i+=7; i < input.size(); i++)
+    while(i < input.size())
     {
-        if(frame(i))break;
-
-        if (input[i] == '1') ones++;
-		else ones = 0;
-
-		if (ones == 5)
+        output = "";
+        bool start = true;
+        while(!frame(i))
         {
-			output += input[i];
-			i++;
-			ones = 0;
-		}
-		else
+            i++;
+            if(i >= input.size())
+            {
+                start = false;
+                break;
+            }
+        }
+        if(!start)break;
+
+        int ones = 0;
+
+        for(i+=8; i < input.size(); i++)
         {
-			output += input[i];
-		}
+            if(frame(i))
+            {
+                break;
+            }
+            if (input[i] == '1') ones++;
+            else ones = 0;
+
+            if (ones == 5)
+            {
+                output += input[i];
+                i++;
+                ones = 0;
+            }
+            else
+            {
+                output += input[i];
+            }
+        }
+        if(output.size() > 32)
+        {
+            string message = output.substr(0, output.size()-32);
+            string crcString = output.substr(output.size()-32, output.size());
+
+            //cerr<<message<<"\n"<<crcString<<"\n";
+            cerr<<crcString<<"\n";
+            
+            uint32_t crc = CRC::Calculate(message.c_str(), sizeof(message), CRC::CRC_32());
+
+            stringstream ss;
+            ss << std::hex << crc;
+            unsigned n;
+            ss >> n;
+            bitset<32> bset(n);
+
+            if(crcString != bset.to_string())
+            {
+                cerr<<"error, cprrupted data\n";
+            }
+            else
+            {
+                packetsRead++;
+                cout<<message<<"\n";
+            }
+        }
+        else{
+            cerr<<"empty frame\n";
+        }
+        i++;
     }
-    
-    string message = output.substr(0, output.size()-32);
-    string crcString = output.substr(output.size()-32, output.size());
-
-    //cerr<<message<<"\n"<<crcString<<"\n";
-    cerr<<crcString<<"\n";
-    
-    uint32_t crc = CRC::Calculate(message.c_str(), sizeof(message), CRC::CRC_32());
-
-    stringstream ss;
-	ss << std::hex << crc;
-	unsigned n;
-	ss >> n;
-	bitset<32> bset(n);
-
-    if(crcString != bset.to_string())
-    {
-        cerr<<"error\n";
-    }
-    else
-    {
-        cout<<message;
-    }
-
+    cerr<<"odczytano "<<packetsRead<<" pakietow\n";
     return 0;
 }

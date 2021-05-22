@@ -8,6 +8,10 @@
 
 using namespace std;
 
+const int frameSize = 150;
+
+string message;
+int packagesSend = 0;
 string input;
 
 string output = "";
@@ -19,48 +23,51 @@ void frame()
 
 int main()
 {
-    cin>>input;
-    // ToDo: 01111110 -> 011111 0 10
-    // ToDo: CRC?
-
-    uint32_t crc = CRC::Calculate(input.c_str(), sizeof(input), CRC::CRC_32());
-
-    stringstream ss;
-	ss << std::hex << crc;
-	unsigned n;
-	ss >> n;
-	bitset<32> bset(n);
-
-    string crcString = bset.to_string();
-
-    cerr<<crcString<<"\n";
-    input += crcString;
-
-    frame();
-
-    int ones = 0;  
-    for(int i = 0; i < input.size(); i++)
+    cin>>message;
+    for(int j = 0; j< message.size(); j+=frameSize )
     {
-        if(input[i] == '1') ones++;
-        else ones = 0;
+        output = "";
+        input = message.substr(j, j+frameSize);
+        uint32_t crc = CRC::Calculate(input.c_str(), sizeof(input), CRC::CRC_32());
 
-        if(ones == 5)
+        stringstream ss;
+        ss << std::hex << crc;
+        unsigned n;
+        ss >> n;
+        bitset<32> bset(n);
+
+        string crcString = bset.to_string();
+
+        cerr<<crcString<<"\n";
+        input += crcString;
+
+        frame();
+
+        int ones = 0;  
+        for(int i = 0; i < input.size(); i++)
         {
-            output += input[i];
-            output += "0";
-            ones = 0;
+            if(input[i] == '1') ones++;
+            else ones = 0;
+
+            if(ones == 5)
+            {
+                output += input[i];
+                output += "0";
+                ones = 0;
+            }
+            else
+            {
+                output += input[i];
+            }
         }
-        else
-        {
-            output += input[i];
-        }
+
+        
+
+        frame();
+        packagesSend++;
+        cout<<output;
     }
-
     
-
-    frame();
-
-    cout<<output<<"\n";
-
+    cerr<<"Wyslano "<<packagesSend<<" pakietow\n";
     return 0;
 }
