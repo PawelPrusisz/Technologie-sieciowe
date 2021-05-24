@@ -78,17 +78,18 @@ int main()
 
             if(crcString != bset.to_string())
             {
-                cerr<<"error, cprrupted data\n";
+                cerr<<"error, corrupted data\n";
             }
             else
             {
                 packetsRead++;
-                cout<<message<<"\n";
+                cout<<message;
             }
         }
         else{
             cerr<<"empty frame\n";
         }
+        output = "";
         i++;
     }
     cerr<<"odczytano "<<packetsRead<<" pakietow\n";
