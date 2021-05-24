@@ -28,7 +28,7 @@ int main()
     {
         output = "";
         input = "";
-        for(int i = j; i < j+ frameSize; i++)
+        for(int i = j; i < j + frameSize && i < message.size(); i++)
         {
             input += message[i];
         }
