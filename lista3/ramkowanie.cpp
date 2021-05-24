@@ -8,7 +8,7 @@
 
 using namespace std;
 
-const int frameSize = 150;
+const int frameSize = 35;
 
 string message;
 int packagesSend = 0;

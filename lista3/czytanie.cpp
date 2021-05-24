@@ -24,7 +24,7 @@ int main()
     int i = 0;
 
     string output = ""; 
-
+    
     while(i < input.size())
     {
         output = "";
