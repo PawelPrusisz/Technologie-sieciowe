@@ -12,7 +12,7 @@ const int frameSize = 150;
 
 string message;
 int packagesSend = 0;
-string input;
+string input = "";
 
 string output = "";
 
@@ -27,9 +27,15 @@ int main()
     for(int j = 0; j< message.size(); j+=frameSize )
     {
         output = "";
-        input = message.substr(j, j+frameSize);
+        input = "";
+        for(int i = j; i < j+ frameSize; i++)
+        {
+            input += message[i];
+        }
+        //input = message.substr(j, j+frameSize);
+        
         uint32_t crc = CRC::Calculate(input.c_str(), sizeof(input), CRC::CRC_32());
-
+        //cerr<<input<<"\n";
         stringstream ss;
         ss << std::hex << crc;
         unsigned n;
@@ -66,6 +72,7 @@ int main()
         frame();
         packagesSend++;
         cout<<output;
+        output = "";
     }
     
     cerr<<"Wyslano "<<packagesSend<<" pakietow\n";

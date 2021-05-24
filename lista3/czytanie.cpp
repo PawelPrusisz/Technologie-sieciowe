@@ -15,13 +15,15 @@ bool frame(int index)
 
     return true;
 }
-string output = "";
+
 
 int main()
 {
     cin>>input;
 
     int i = 0;
+
+    string output = ""; 
 
     while(i < input.size())
     {
@@ -39,7 +41,7 @@ int main()
         if(!start)break;
 
         int ones = 0;
-
+        output = "";
         for(i+=8; i < input.size(); i++)
         {
             if(frame(i))
@@ -62,8 +64,10 @@ int main()
         }
         if(output.size() > 32)
         {
-            string message = output.substr(0, output.size()-32);
-            string crcString = output.substr(output.size()-32, output.size());
+            string message = "";
+            string crcString = "";
+            message = output.substr(0, output.size()-32);
+            crcString = output.substr(output.size()-32, output.size());
 
             //cerr<<message<<"\n"<<crcString<<"\n";
             cerr<<crcString<<"\n";
@@ -83,7 +87,7 @@ int main()
             else
             {
                 packetsRead++;
-                cout<<message;
+                cout<<message<<"\n";
             }
         }
         else{
