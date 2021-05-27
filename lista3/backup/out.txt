@@ -1,0 +1,1001 @@
+                                                            
+         AAA                                                
+        AAAAA                                               
+       AAAAAAA                                              
+      AAAAAAAAA                                             
+     AAAAAAAAAAA                                            
+    AAAAAAAAAAAAA                                           
+   AAAAAAAAAAAAAAA                                          
+  AAAAAAAAAAAAAAAAA                                         
+ AAAAAAAAAAAAAAAAAAA                                        
+AAAAAAAAAAAAAAAAAAAAA                                       
+AAAAAAAAAAAAAAAAAAAAAA                                      
+AAAAAAAAAAAAAAAAAAAAAAA                                     
+AAAAAAAAAAAAAAAAAAAAAAAA                                    
+AAAAAAAAAAAAAAAAAAAAAAAAA                                   
+AAAAAAAAAAAAAAAAAAAAAAAAAA                                  
+AAAAAAAAAAAAAAAAAAAAAAAAAAA                                 
+AAAAAAAAAAAAAAAAAAAAAAAAAAAA                                
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAA                               
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                              
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                             
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                            
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                           
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                          
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                         
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                        
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                       
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                      
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                     
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                    
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                   
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                  
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                 
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA               
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA              
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA             
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA            
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA           
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA          
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA         
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA        
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA       
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA      
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA     
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA    
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA   
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA  
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAA   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAA     AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAA       AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAA         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAA           AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAA             AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAA               AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA                 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+A                   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                     AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                       AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                          AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                           AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                             AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                              AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                               AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                                AAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                                 AAAAAAAAAAAAAAAAAAAAAAAAAAA
+                                  AAAAAAAAAAAAAAAAAAAAAAAAAA
+                                   AAAAAAAAAAAAAAAAAAAAAAAAA
+                                    AAAAAAAAAAAAAAAAAAAAAAAA
+                                     AAAAAAAAAAAAAAAAAAAAAAA
+                                      AAAAAAAAAAAAAAAAAAAAAA
+                                       AAAAAAAAAAAAAAAAAAAAA
+                                        AAAAAAAAAAAAAAAAAAAA
+                                         AAAAAAAAAAAAAAAAAAA
+                                          AAAAAAAAAAAAAAAAAA
+                                           AAAAAAAAAAAAAAAAA
+                                            AAAAAAAAAAAAAAAA
+                                             AAAAAAAAAAAAAAA
+                                              AAAAAAAAAAAAAA
+                                               AAAAAAAAAAAAA
+                                                AAAAAAAAAAAA
+                                                 AAAAAAAAAAA
+                                                  AAAAAAAAAA
+                                                   AAAAAAAAA
+                                                    AAAAAAAA
+                                                     AAAAAAA
+                                                      AAAAAA
+                                                       AAAAA
+                                                        AAAA
+                                                         AAA
+                                                          AA
+                                                           A
+                                                            
+                                                 BBB        
+                                                BBBBB       
+                                               BBBBBBB      
+                                              BBBBBBBBB     
+                                             BBBBBBBBBBB    
+                                            BBBBBBBBBBBBB   
+         AAA                               BBBBBBBBBBBBBBB  
+        AAAAA                             BBBBBBBBBBBBBBBBB 
+       AAAAAAA                           BBBBBBBBBBBBBBBBBBB
+      AAAAAAAAA                         BBBBBBBBBBBBBBBBBBBB
+     AAAAAAAAAAA                       BBBBBBBBBBBBBBBBBBBBB
+    AAAAAAAAAAAAA                     BBBBBBBBBBBBBBBBBBBBBB
+   AAAAAAAAAAAAAAA                   BBBBBBBBBBBBBBBBBBBBBBB
+  AAAAAAAAAAAAAAAAA                 BBBBBBBBBBBBBBBBBBBBBBBB
+ AAAAAAAAAAAAAAAAAAA               BBBBBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAA             BBBBBBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAA           BBBBBBBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAA         BBBBBBBBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAA       BBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAA     BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAA   BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAAA BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAAA#BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAA###BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAA#####BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAA#######BBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAA#########BBBBBBBBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAA###########BBBBBBBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAA#############BBBBBBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAA###############BBBBBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAA#################BBBBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAA###################BBBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAA#####################BBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAA#######################BBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAA#########################BBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAA###########################BBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAA#############################BBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAA###############################BBBBBBBBBBBBBBBBB
+AAAAAAAAAAA#################################BBBBBBBBBBBBBBBB
+AAAAAAAAAA###################################BBBBBBBBBBBBBBB
+AAAAAAAAA#####################################BBBBBBBBBBBBBB
+AAAAAAAA#######################################BBBBBBBBBBBBB
+AAAAAAA#########################################BBBBBBBBBBBB
+AAAAAA###########################################BBBBBBBBBBB
+AAAAA#############################################BBBBBBBBBB
+AAAA###############################################BBBBBBBBB
+AAA#################################################BBBBBBBB
+AA###################################################BBBBBBB
+A#####################################################BBBBBB
+#######################################################BBBBB
+########################################################BBBB
+#########################################################BBB
+##########################################################BB
+###########################################################B
+############################################################
+#########   #####################################   ########
+########     ###################################     #######
+#######       #################################       ######
+######         ###############################         #####
+#####           #############################           ####
+####             ###########################             ###
+###               #########################               ##
+##                 #######################                 #
+#                   #####################                   
+                     ###################                    
+                      #################                     
+                       ###############                      
+                        #############                       
+                         ###########                        
+                          #########                         
+                           #######                          
+                            #####                           
+                             ###                            
+                              #                             
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+         AAA                                                
+        AAAAA                                               
+       AAAAAAA                                              
+      AAAAAAAAA                                             
+     AAAAAAAAAAA                                            
+    AAAAAAAAAAAAA                                           
+   AAAAAAAAAAAAAAA                                          
+  AAAAAAAAAAAAAAAAA                                         
+ AAAAAAAAAAAAAAAAAAA                                        
+AAAAAAAAAAAAAAAAAAAAA                                       
+AAAAAAAAAAAAAAAAAAAAAA                                      
+AAAAAAAAAAAAAAAAAAAAAAA                                     
+AAAAAAAAAAAAAAAAAAAAAAAA                                    
+AAAAAAAAAAAAAAAAAAAAAAAAA                                   
+AAAAAAAAAAAAAAAAAAAAAAAAAA                                  
+AAAAAAAAAAAAAAAAAAAAAAAAAAA                                 
+AAAAAAAAAAAAAAAAAAAAAAAAAAAA                                
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAA                               
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                              
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                             
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                            
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                           
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                          
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                         
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                        
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                       
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                      
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                     
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                    
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                   
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                  
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                 
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA               
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA              
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA             
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA            
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA           
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA          
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA         
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA        
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA       
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA      
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA     
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA    
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA   
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA  
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAA   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAA     AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAA       AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAA         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAA           AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAA             AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAA               AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AA                 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+A                   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                     AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                      AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                       AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                          AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                           AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                            AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                             AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                              AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                               AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                                AAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                                 AAAAAAAAAAAAAAAAAAAAAAAAAAA
+                                  AAAAAAAAAAAAAAAAAAAAAAAAAA
+                                   AAAAAAAAAAAAAAAAAAAAAAAAA
+                                    AAAAAAAAAAAAAAAAAAAAAAAA
+                                     AAAAAAAAAAAAAAAAAAAAAAA
+                                      AAAAAAAAAAAAAAAAAAAAAA
+                                       AAAAAAAAAAAAAAAAAAAAA
+                                        AAAAAAAAAAAAAAAAAAAA
+                                         AAAAAAAAAAAAAAAAAAA
+                                          AAAAAAAAAAAAAAAAAA
+                                           AAAAAAAAAAAAAAAAA
+                                            AAAAAAAAAAAAAAAA
+                                             AAAAAAAAAAAAAAA
+                                              AAAAAAAAAAAAAA
+                                               AAAAAAAAAAAAA
+                                                AAAAAAAAAAAA
+                                                 AAAAAAAAAAA
+                                                  AAAAAAAAAA
+                                                   AAAAAAAAA
+                                                    AAAAAAAA
+                                                     AAAAAAA
+                                                      AAAAAA
+                                                       AAAAA
+                                                        AAAA
+                                                         AAA
+                                                          AA
+                                                           A
+                                                            
+                                                            
+         AAA                                                
+        AAAAA                                               
+       AAAAAAA                                              
+      AAAAAAAAA                                             
+     AAAAAAAAAAA                                            
+    AAAAAAAAAAAAA                                           
+   AAAAAAAAAAAAAAA                                          
+  AAAAAAAAAAAAAAAAA                              BBB        
+ AAAAAAAAAAAAAAAAAAA                            BBBBB       
+AAAAAAAAAAAAAAAAAAAAA                          BBBBBBB      
+AAAAAAAAAAAAAAAAAAAAAA                        BBBBBBBBB     
+AAAAAAAAAAAAAAAAAAAAAAA                      BBBBBBBBBBB    
+AAAAAAAAAAAAAAAAAAAAAAAA                    BBBBBBBBBBBBB   
+AAAAAAAAAAAAAAAAAAAAAAAAA                  BBBBBBBBBBBBBBB  
+AAAAAAAAAAAAAAAAAAAAAAAAAA                BBBBBBBBBBBBBBBBB 
+AAAAAAAAAAAAAAAAAAAAAAAAAAA              BBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAAAA            BBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAA          BBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA        BBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA      BBBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA    BBBBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA  BBBBBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBBBBBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA##BBBBBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA####BBBBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA######BBBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA########BBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAA##########BBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAAAA############BBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAAA##############BBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAA################BBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAA##################BBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAA####################BBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAA######################BBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAA########################BBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAA##########################BBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAA############################BBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAA##############################BBBBBBBBBBB
+AAAAAAAAAAAAAAAAAA################################BBBBBBBBBB
+AAAAAAAAAAAAAAAAA##################################BBBBBBBBB
+AAAAAAAAAAAAAAAA####################################BBBBBBBB
+AAAAAAAAAAAAAAA######################################BBBBBBB
+AAAAAAAAAAAAAA########################################BBBBBB
+AAAAAAAAAAAAA##########################################BBBBB
+AAAAAAAAAAAA############################################BBBB
+AAAAAAAAAAA##############################################BBB
+AAAAAAAAAA################################################BB
+AAAAAAAAA##################################################B
+AAAAAAAA####################################################
+AAAAAAA#####################################################
+AAAAAA######################################################
+AAAAA#######################################################
+AAAA########################################################
+AAA#########################################################
+AA##########################################################
+A###########################################################
+############################################################
+#################################################   ########
+#########   ####################################     #######
+########     ##################################       ######
+#######       ################################         #####
+######         ##############################           ####
+#####           ############################             ###
+####             ##########################               ##
+###               ########################                 #
+##                 ######################                   
+#                   ####################                    
+                     ##################                     
+                      ################                      
+                       ##############                       
+                        ############                        
+                         ##########                         
+                          ########                          
+                           ######                           
+                            ####                            
+                             ##                             
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                 BBB        
+                                                BBBBB       
+                                               BBBBBBB      
+                                              BBBBBBBBB     
+                                             BBBBBBBBBBB    
+                                            BBBBBBBBBBBBB   
+                                           BBBBBBBBBBBBBBB  
+                                          BBBBBBBBBBBBBBBBB 
+                                         BBBBBBBBBBBBBBBBBBB
+                                        BBBBBBBBBBBBBBBBBBBB
+                                       BBBBBBBBBBBBBBBBBBBBB
+                                      BBBBBBBBBBBBBBBBBBBBBB
+                                     BBBBBBBBBBBBBBBBBBBBBBB
+                                    BBBBBBBBBBBBBBBBBBBBBBBB
+                                   BBBBBBBBBBBBBBBBBBBBBBBBB
+                                  BBBBBBBBBBBBBBBBBBBBBBBBBB
+                                 BBBBBBBBBBBBBBBBBBBBBBBBBBB
+                                BBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                               BBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                              BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                             BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                            BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                           BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                          BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                         BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                        BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                       BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                      BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                     BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                    BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                   BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                  BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                 BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+               BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+              BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+             BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+            BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+           BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+          BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+         BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+        BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+       BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+      BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+     BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+    BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+   BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+  BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+ BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB   BBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB     BBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB       BBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB         BBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB           BBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB             BBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB               BB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                 B
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                   
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                    
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                     
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                      
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                       
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                        
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                         
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                          
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                           
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                            
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                             
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                              
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBB                               
+BBBBBBBBBBBBBBBBBBBBBBBBBBBB                                
+BBBBBBBBBBBBBBBBBBBBBBBBBBB                                 
+BBBBBBBBBBBBBBBBBBBBBBBBBB                                  
+BBBBBBBBBBBBBBBBBBBBBBBBB                                   
+BBBBBBBBBBBBBBBBBBBBBBBB                                    
+BBBBBBBBBBBBBBBBBBBBBBB                                     
+BBBBBBBBBBBBBBBBBBBBBB                                      
+BBBBBBBBBBBBBBBBBBBBB                                       
+BBBBBBBBBBBBBBBBBBBB                                        
+BBBBBBBBBBBBBBBBBBB                                         
+BBBBBBBBBBBBBBBBBB                                          
+BBBBBBBBBBBBBBBBB                                           
+BBBBBBBBBBBBBBBB                                            
+BBBBBBBBBBBBBBB                                             
+BBBBBBBBBBBBBB                                              
+BBBBBBBBBBBBB                                               
+BBBBBBBBBBBB                                                
+BBBBBBBBBBB                                                 
+BBBBBBBBBB                                                  
+BBBBBBBBB                                                   
+BBBBBBBB                                                    
+BBBBBBB                                                     
+BBBBBB                                                      
+BBBBB                                                       
+BBBB                                                        
+BBB                                                         
+BB                                                          
+B                                                           
+                                                            
+                                                            
+         AAA                                                
+        AAAAA                                               
+       AAAAAAA                                              
+      AAAAAAAAA                                             
+     AAAAAAAAAAA                                            
+    AAAAAAAAAAAAA                                           
+   AAAAAAAAAAAAAAA                                          
+  AAAAAAAAAAAAAAAAA                              BBB        
+ AAAAAAAAAAAAAAAAAAA                            BBBBB       
+AAAAAAAAAAAAAAAAAAAAA                          BBBBBBB      
+AAAAAAAAAAAAAAAAAAAAAA                        BBBBBBBBB     
+AAAAAAAAAAAAAAAAAAAAAAA                      BBBBBBBBBBB    
+AAAAAAAAAAAAAAAAAAAAAAAA                    BBBBBBBBBBBBB   
+AAAAAAAAAAAAAAAAAAAAAAAAA                  BBBBBBBBBBBBBBB  
+AAAAAAAAAAAAAAAAAAAAAAAAAA                BBBBBBBBBBBBBBBBB 
+AAAAAAAAAAAAAAAAAAAAAAAAAAA              BBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAAAA            BBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAA          BBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA        BBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA      BBBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA    BBBBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA  BBBBBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBBBBBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA##BBBBBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA####BBBBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA######BBBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA########BBBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAA##########BBBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAAAA############BBBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAAA##############BBBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAAA################BBBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAAA##################BBBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAA####################BBBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAA######################BBBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAA########################BBBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAA##########################BBBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAAA############################BBBBBBBBBBBB
+AAAAAAAAAAAAAAAAAAA##############################BBBBBBBBBBB
+AAAAAAAAAAAAAAAAAA################################BBBBBBBBBB
+AAAAAAAAAAAAAAAAA##################################BBBBBBBBB
+AAAAAAAAAAAAAAAA####################################BBBBBBBB
+AAAAAAAAAAAAAAA######################################BBBBBBB
+AAAAAAAAAAAAAA########################################BBBBBB
+AAAAAAAAAAAAA##########################################BBBBB
+AAAAAAAAAAAA############################################BBBB
+AAAAAAAAAAA##############################################BBB
+AAAAAAAAAA################################################BB
+AAAAAAAAA##################################################B
+AAAAAAAA####################################################
+AAAAAAA#####################################################
+AAAAAA######################################################
+AAAAA#######################################################
+AAAA########################################################
+AAA#########################################################
+AA##########################################################
+A###########################################################
+############################################################
+#################################################   ########
+#########   ####################################     #######
+########     ##################################       ######
+#######       ################################         #####
+######         ##############################           ####
+#####           ############################             ###
+####             ##########################               ##
+###               ########################                 #
+##                 ######################                   
+#                   ####################                    
+                     ##################                     
+                      ################                      
+                       ##############                       
+                        ############                        
+                         ##########                         
+                          ########                          
+                           ######                           
+                            ####                            
+                             ##                             
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                 BBB        
+                                                BBBBB       
+                                               BBBBBBB      
+                                              BBBBBBBBB     
+                                             BBBBBBBBBBB    
+                                            BBBBBBBBBBBBB   
+                                           BBBBBBBBBBBBBBB  
+                                          BBBBBBBBBBBBBBBBB 
+                                         BBBBBBBBBBBBBBBBBBB
+                                        BBBBBBBBBBBBBBBBBBBB
+                                       BBBBBBBBBBBBBBBBBBBBB
+                                      BBBBBBBBBBBBBBBBBBBBBB
+                                     BBBBBBBBBBBBBBBBBBBBBBB
+                                    BBBBBBBBBBBBBBBBBBBBBBBB
+                                   BBBBBBBBBBBBBBBBBBBBBBBBB
+                                  BBBBBBBBBBBBBBBBBBBBBBBBBB
+                                 BBBBBBBBBBBBBBBBBBBBBBBBBBB
+                                BBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                               BBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                              BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                             BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                            BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                           BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                          BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                         BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                        BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                       BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                      BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                     BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                    BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                   BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                  BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                 BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+               BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+              BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+             BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+            BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+           BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+          BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+         BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+        BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+       BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+      BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+     BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+    BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+   BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+  BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+ BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB   BBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB     BBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB       BBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB         BBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB           BBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB             BBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB               BB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                 B
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                   
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                    
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                     
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                      
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                       
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                        
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                         
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                          
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                           
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                            
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                             
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                              
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBB                               
+BBBBBBBBBBBBBBBBBBBBBBBBBBBB                                
+BBBBBBBBBBBBBBBBBBBBBBBBBBB                                 
+BBBBBBBBBBBBBBBBBBBBBBBBBB                                  
+BBBBBBBBBBBBBBBBBBBBBBBBB                                   
+BBBBBBBBBBBBBBBBBBBBBBBB                                    
+BBBBBBBBBBBBBBBBBBBBBBB                                     
+BBBBBBBBBBBBBBBBBBBBBB                                      
+BBBBBBBBBBBBBBBBBBBBB                                       
+BBBBBBBBBBBBBBBBBBBB                                        
+BBBBBBBBBBBBBBBBBBB                                         
+BBBBBBBBBBBBBBBBBB                                          
+BBBBBBBBBBBBBBBBB                                           
+BBBBBBBBBBBBBBBB                                            
+BBBBBBBBBBBBBBB                                             
+BBBBBBBBBBBBBB                                              
+BBBBBBBBBBBBB                                               
+BBBBBBBBBBBB                                                
+BBBBBBBBBBB                                                 
+BBBBBBBBBB                                                  
+BBBBBBBBB                                                   
+BBBBBBBB                                                    
+BBBBBBB                                                     
+BBBBBB                                                      
+BBBBB                                                       
+BBBB                                                        
+BBB                                                         
+BB                                                          
+B                                                           
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                 BBB        
+                                                BBBBB       
+                                               BBBBBBB      
+                                              BBBBBBBBB     
+                                             BBBBBBBBBBB    
+                                            BBBBBBBBBBBBB   
+                                           BBBBBBBBBBBBBBB  
+                                          BBBBBBBBBBBBBBBBB 
+                                         BBBBBBBBBBBBBBBBBBB
+                                        BBBBBBBBBBBBBBBBBBBB
+                                       BBBBBBBBBBBBBBBBBBBBB
+                                      BBBBBBBBBBBBBBBBBBBBBB
+                                     BBBBBBBBBBBBBBBBBBBBBBB
+                                    BBBBBBBBBBBBBBBBBBBBBBBB
+                                   BBBBBBBBBBBBBBBBBBBBBBBBB
+                                  BBBBBBBBBBBBBBBBBBBBBBBBBB
+                                 BBBBBBBBBBBBBBBBBBBBBBBBBBB
+                                BBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                               BBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                              BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                             BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                            BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                           BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                          BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                         BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                        BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                       BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                      BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                     BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                    BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                   BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                  BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                 BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+               BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+              BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+             BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+            BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+           BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+          BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+         BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+        BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+       BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+      BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+     BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+    BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+   BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+  BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+ BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB   BBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB     BBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB       BBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB         BBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB           BBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB             BBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB               BB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                 B
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                   
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                    
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                     
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                      
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                       
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                        
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                         
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                          
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                           
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                            
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                             
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                              
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBB                               
+BBBBBBBBBBBBBBBBBBBBBBBBBBBB                                
+BBBBBBBBBBBBBBBBBBBBBBBBBBB                                 
+BBBBBBBBBBBBBBBBBBBBBBBBBB                                  
+BBBBBBBBBBBBBBBBBBBBBBBBB                                   
+BBBBBBBBBBBBBBBBBBBBBBBB                                    
+BBBBBBBBBBBBBBBBBBBBBBB                                     
+BBBBBBBBBBBBBBBBBBBBBB                                      
+BBBBBBBBBBBBBBBBBBBBB                                       
+BBBBBBBBBBBBBBBBBBBB                                        
+BBBBBBBBBBBBBBBBBBB                                         
+BBBBBBBBBBBBBBBBBB                                          
+BBBBBBBBBBBBBBBBB                                           
+BBBBBBBBBBBBBBBB                                            
+BBBBBBBBBBBBBBB                                             
+BBBBBBBBBBBBBB                                              
+BBBBBBBBBBBBB                                               
+BBBBBBBBBBBB                                                
+BBBBBBBBBBB                                                 
+BBBBBBBBBB                                                  
+BBBBBBBBB                                                   
+BBBBBBBB                                                    
+BBBBBBB                                                     
+BBBBBB                                                      
+BBBBB                                                       
+BBBB                                                        
+BBB                                                         
+BB                                                          
+B                                                           
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                 BBB        
+                                                BBBBB       
+                                               BBBBBBB      
+                                              BBBBBBBBB     
+                                             BBBBBBBBBBB    
+                                            BBBBBBBBBBBBB   
+                                           BBBBBBBBBBBBBBB  
+                                          BBBBBBBBBBBBBBBBB 
+                                         BBBBBBBBBBBBBBBBBBB
+                                        BBBBBBBBBBBBBBBBBBBB
+                                       BBBBBBBBBBBBBBBBBBBBB
+                                      BBBBBBBBBBBBBBBBBBBBBB
+                                     BBBBBBBBBBBBBBBBBBBBBBB
+                                    BBBBBBBBBBBBBBBBBBBBBBBB
+                                   BBBBBBBBBBBBBBBBBBBBBBBBB
+                                  BBBBBBBBBBBBBBBBBBBBBBBBBB
+                                 BBBBBBBBBBBBBBBBBBBBBBBBBBB
+                                BBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                               BBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                              BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                             BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                            BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                           BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                          BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                         BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                        BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                       BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                      BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                     BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                    BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                   BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                  BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                 BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+                BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+               BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+              BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+             BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+            BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+           BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+          BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+         BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+        BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+       BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+      BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+     BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+    BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+   BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+  BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+ BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB   BBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB     BBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB       BBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB         BBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB           BBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB             BBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB               BB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                 B
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                   
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                    
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                     
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                      
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                       
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                        
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                         
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                          
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                           
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                            
+finished

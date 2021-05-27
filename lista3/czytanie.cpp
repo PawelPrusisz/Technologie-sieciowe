@@ -25,8 +25,10 @@ int main()
 
     string output = ""; 
     
+    bool corrupt = false;
     while(i < input.size())
     {
+        if(corrupt)i-=8;
         output = "";
         bool start = true;
         while(!frame(i))
@@ -69,7 +71,7 @@ int main()
             message = output.substr(0, output.size()-32);
             crcString = output.substr(output.size()-32, output.size());
 
-            //cerr<<message<<"\n"<<crcString<<"\n";
+            cerr<<"\n\n"<<message<<"\n"<<crcString<<"\n\n";
             cerr<<crcString<<"\n";
             
             uint32_t crc = CRC::Calculate(message.c_str(), sizeof(message), CRC::CRC_32());
@@ -83,15 +85,19 @@ int main()
             if(crcString != bset.to_string())
             {
                 cerr<<"error, corrupted data\n";
+                corrupt = true;
             }
             else
             {
                 packetsRead++;
                 cout<<message<<"\n";
+                corrupt = false;
             }
         }
-        else{
+        else
+        {
             cerr<<"empty frame\n";
+            corrupt = true;
         }
         output = "";
         i++;
